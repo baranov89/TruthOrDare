@@ -1,0 +1,33 @@
+{
+  "identifier" : "A03F15B3",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "10",
+      "familyShareable" : true,
+      "internalID" : "7085BEAD",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Full access",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "truthOrDareFullAccess",
+      "referenceName" : null,
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 2
+  }
+}
