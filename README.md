@@ -1,5 +1,4 @@
 # Truth or dare
-Game - Truth or dare
 Truth or Dare is a classic party game that involves players taking turns to either answer a truth question or perform a dare. The game is usually played with a group of friends and can be a lot of fun as players try to come up with creative and sometimes embarrassing truths and dares.
 
 To play, one player starts by asking another player "truth or dare?" If the player chooses truth, they must answer a question truthfully. If they choose dare, they must perform a task or challenge given to them by the player who asked the question.
