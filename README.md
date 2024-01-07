@@ -7,6 +7,9 @@ The questions and dares can range from simple and innocent to more daring and ri
 
 Overall, Truth or Dare is a great way to break the ice at parties and get to know your friends better while having fun and laughing together.
 
+Stack: SwiftUI, StoreKit, Lottie
+App Store - https://apps.apple.com/app/id1644359952
+
 ![Image alt](https://github.com/baranov89/TruthOrDare/blob/main/TruthOrDareTwo.png)
 ![Image alt](https://github.com/baranov89/TruthOrDare/blob/main/TruthOrDareFive.png)
 ![Image alt](https://github.com/baranov89/TruthOrDare/blob/main/TruthOrDareThree.png)
